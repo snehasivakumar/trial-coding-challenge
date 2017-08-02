@@ -1,0 +1,76 @@
+.leftHalf {
+   
+   background: url(../img/LargeBanker.png) 10% 10%;
+   background-size: cover;
+   width: 100%;
+   height:850px;
+   
+
+   }
+.rightHalf {
+
+   background: url(../img/Traveler.png) 10% 10%;
+   background-size: cover;
+   width: 100%;
+   height: 850px;
+  
+   }
+   .padding-0
+   {
+      padding-right: 0 !important;
+      padding-left: 0 !important;
+   }
+   
+
+
+.accolades
+{
+  background-color:#FDD74E;
+  width:100%;
+  height:100%;
+}
+.footer
+{
+  background-color:black;
+  width:100%;
+  height:100%;
+}
+div.center
+{
+  text-align: center;
+
+}
+
+    div.p
+{
+  padding-top: 10px;
+
+}
+#first
+{
+   font-size: x-large;
+    color:white;
+
+}
+#second
+{
+  font-size: xx-large;
+  color:#FDD74E;
+
+}
+#third
+{
+  color: #34424B;
+  padding-top: 20px;
+}
+.icons i {
+  padding-right: 20px;/*space before the red outline*/
+  margin-right: 10px;/*also between the red and blue*/
+  
+}
+.acc
+{
+  padding-top: 40px;
+}
+.descr
+{padding-bottom: 40px;}
